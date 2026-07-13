@@ -2,12 +2,6 @@
 
 A curated collection of the best resources for designers and developers to elevate their projects. Explore inspiration for landing pages, SaaS, components, UX patterns, and much more.
 
-## Contributing
-
-Contributions are always welcome!
-
-See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/main/contributing.md) for ways to get started.
-
 ## Table of Contents
 
 - [Landing](#landing)
@@ -27,13 +21,11 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Arts](#arts)
 - [Logo](#logo)
 - [Design](#design)
-- [Development](#development)
 - [Interface](#interface)
 - [Portfolio](#portfolio)
 - [Archive](#archive)
 - [Web3](#web3)
 - [Font](#font)
-- [Advertising](#advertising)
 - [Email](#email)
 - [Motion](#motion)
 - [Data Visualisation](#data-visualisation)
@@ -47,12 +39,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Photography](#photography)
 - [Search](#search)
 - [UI Library](#ui-library)
-- [More Extreme](#more-extreme)
-- [Book](#book)
-- [Accessibility](#accessibility)
-- [Copywriting](#copywriting)
 - [Marketing](#marketing)
-- [Boilerplate](#boilerplate)
 - [Background](#background)
 
 ## Landing
@@ -79,7 +66,6 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 
 - [Collect UI](https://collectui.com/) - Daily inspiration collected from daily ui archive and beyond. Based on Dribbble shots, hand picked, updating daily.
 - [Pageflows](https://pageflows.com/) - Explore real-world user flows and design patterns from leading apps and websites.
-- [WWWOAH!](https://wwwoah.com/) - wwwoah! is a gallery for the handcrafted website that celebrates expression in interactive design.
 
 ## Onboarding
 
@@ -92,6 +78,8 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 
 ## Web
 
+- [Awwwards](https://awwwards.com/) - Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
+- [The FWA](https://thefwa.com/) - Cutting edge showcase and inspiration since 2000.
 - [A1 Gallery](https://www.a1.gallery) - Hand-curated gallery of 1,000+ websites, filterable by technology stack, font, style, colour, creator, type, and category.
 - [The Animated Web](https://theanimatedweb.com/) - Amazing animation resources and inspiration from around the web.
 - [Websitevice](https://websitevice.com/) - A curated gallery of professional website designs to inspire developers and designers seeking creative ideas and best practices.
@@ -106,6 +94,8 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Siiimple](https://siiimple.com/) - A Minimalist Website Gallery
 - [One Page Love](https://onepagelove.com/) - One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources.
 - [Siteinspire](https://www.siteinspire.com/) - A showcase of the world's finest web design.
+- [WWWOAH!](https://wwwoah.com/) - wwwoah! is a gallery for the handcrafted website that celebrates expression in interactive design.
+- [Dead Simple Sites](https://deadsimplesites.com/) - Minimal Website Inspiration
 
 ## eCommerce
 
@@ -163,13 +153,6 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Evernote.Design](https://www.evernote.design/) - All in One Bookmark Links for Designer
 - [Checklist Design](https://www.checklist.design/) - A collection of the best design practices.
 
-## Development
-
-- [Nextjs Design](https://www.nextjs.design/) - Explore a curated directory of free web development tools for designers and engineers. Find resources for JavaScript, Tailwind CSS, and more!
-- [BulkPicTools](https://bulkpictools.com/) - Free browser-based bulk image processor. Compress, convert (HEIC/WebP/AVIF/PNG/JPG), resize, crop, watermark 1,000+ images at once — no upload, no account needed.
-- [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based utility suite: favicon generator, OG image generator, color palette generator, AI background remover (runs locally, no upload), domain name generator, SEO meta tag generator, AI cost calculator, AI content disclosure generator, and AI robots.txt generator. Open source.
-- [igly.ai](https://igly.ai) - AI image editing platform for background removal, inpainting, upscaling, and generative fill.
-
 ## Interface
 
 - [Auto Interfaces](https://www.autointerfaces.com/) - Auto Interfaces is the best collection of modern vehicle infotainment system designs, interactions and screens.
@@ -200,12 +183,6 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [Font In Logo](https://www.fontinlogo.com/) - Search & find FONTS used by World Brands in their logos, such as Nike, Tesla, Chanel, Adidas, Youtube, BMW font, New York Times, Sony, Nvidia and more.
 - [TypoMonday](https://www.typomonday.com/) - Hello and welcome to my weekly series called typomonday where i share each monday various website layouts i designed in the past week focusing on typography exploration.
 - [Free Faces](https://www.freefaces.gallery/) - This website is a curated collection of typefaces that are available under a variety of free licences somewhere on the interwebs.
-
-## Advertising
-
-- [STEEP](https://www.steep.design/) - Creative story design examples.
-- [Adfolio](https://www.adfolio.design/) - Social ads for design and copy inspiration.
-- [Love The Work More](https://lovetheworkmore.com/) - A collection of award-winning advertising campaigns.
 
 ## Email
 
@@ -262,33 +239,9 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 - [ANIMATA](https://animata.design/) - Hand-crafted ✍️ interaction animations and effects from around the internet 🛜 to copy and paste into your project.
 - [Aceternity UI](https://ui.aceternity.com/) - Copy paste the most trending components and use them in your websites without having to worry about styling and animations.
 
-## More Extreme
-
-- [Dead Simple Sites](https://deadsimplesites.com/) - Minimal Website Inspiration
-
-## Book
-
-- [Good Books](https://www.goodbooks.io/) - Books recommended by successful people
-
-## Accessibility
-
-- [Accessibility Not-Checklist](https://not-checklist.intopia.digital/) - The Not-Checklist provides a foundational guide for those new to accessibility. It offers an overview of key considerations but doesn't teach WCAG in detail.
-- [A11Y Project](https://www.a11yproject.com/) - The A11Y Project is a community-driven effort to make digital accessibility easier.
-- [Access Guide](https://www.accessguide.io/) - Access Guide is a friendly introduction to digital accessibility based on WCAG 2.1
-- [Randoma11y](https://randoma11y.com/) - Get random, accessible color combinations
-
-## Copywriting
-
-- [Copywriting Examples](https://marketingexamples.com/inspiration) - The world's best copy. In one place.
-
 ## Marketing
 
 - [Marketing Examples](https://marketingexamples.com/) - 150+ short, sweet, practical examples
-
-## Boilerplate
-
-- [next-saas-starter](https://github.com/leerob/next-saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
-- [Saas-Kit-prisma](https://github.com/Saas-Starter-Kit/Saas-Kit-prisma) - A template for building Software-as-Service (SAAS) apps with Reactjs, Nextjs, Prisma and OpenAI integration
 
 ## Background
 
