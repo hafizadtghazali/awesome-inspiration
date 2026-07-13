@@ -641,8 +641,8 @@ body {
   outline-offset: 2px;
 }
 .markdown-section a {
-  color: #42b983;
-  color: var(--theme-color, #42b983);
+  color: #0303ab;
+  color: var(--theme-color, #0303ab);
   text-decoration: none;
 }
 .markdown-section h1:first-child {
