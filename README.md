@@ -5,7 +5,7 @@ A curated collection of the best resources for designers and developers to eleva
 ## Table of Contents
 
 - [Landing](#landing)
-- [UI & UX](#ui--ux)
+- [UI & UX](#ui-amp-ux)
 - [SaaS](#saas)
 - [Onboarding](#onboarding)
 - [Component](#component)
