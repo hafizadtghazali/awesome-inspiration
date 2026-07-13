@@ -79,7 +79,7 @@ See [`contributing.md`](https://github.com/shsfwork/awesome-inspiration/blob/mai
 
 - [Collect UI](https://collectui.com/) - Daily inspiration collected from daily ui archive and beyond. Based on Dribbble shots, hand picked, updating daily.
 - [Pageflows](https://pageflows.com/) - Explore real-world user flows and design patterns from leading apps and websites.
-- [WWWOAH!] (https://wwwoah.com/) - wwwoah! is a gallery for the handcrafted website that celebrates expression in interactive design.
+- [WWWOAH!](https://wwwoah.com/) - wwwoah! is a gallery for the handcrafted website that celebrates expression in interactive design.
 
 ## Onboarding
 
