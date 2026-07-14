@@ -154,6 +154,7 @@ A curated collection of the best resources for designers and developers to eleva
 - [Visual Journal](https://visualjournal.it/) - The best in Branding, Editorial and Graphic Design
 - [Evernote.Design](https://www.evernote.design/) - All in One Bookmark Links for Designer
 - [Checklist Design](https://www.checklist.design/) - A collection of the best design practices.
+- [Frontpedia](https://frontpedia.com/) - A collection of frontend and design resources.
 
 ## Interface
 
