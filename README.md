@@ -65,7 +65,9 @@ A curated collection of the best resources for designers and developers to eleva
 ## UI & UX
 
 - [Collect UI](https://collectui.com/) - Daily inspiration collected from daily ui archive and beyond. Based on Dribbble shots, hand picked, updating daily.
+- [GoodUI](https://goodui.org/) - Reach higher conversions faster by repeating what worked for others and avoiding what failed.
 - [Pageflows](https://pageflows.com/) - Explore real-world user flows and design patterns from leading apps and websites.
+- [UIRecipes](https://uirecipes.com/) - Discover UIRecipes for delicious recipes, easy cooking guides, ingredient ideas, and helpful kitchen tips.
 
 ## Onboarding
 
