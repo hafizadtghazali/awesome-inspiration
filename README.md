@@ -84,6 +84,7 @@ A curated collection of the best resources for designers and developers to eleva
 - [The FWA](https://thefwa.com/) - Cutting edge showcase and inspiration since 2000.
 - [A1 Gallery](https://www.a1.gallery) - Hand-curated gallery of 1,000+ websites, filterable by technology stack, font, style, colour, creator, type, and category.
 - [The Animated Web](https://theanimatedweb.com/) - Amazing animation resources and inspiration from around the web.
+- [Details.so](https://www.details.so/inspo) - Curated web design inspiration from real websites: hero sections, footers, preloaders, page transitions and animations — updated weekly.
 - [Websitevice](https://websitevice.com/) - A curated gallery of professional website designs to inspire developers and designers seeking creative ideas and best practices.
 - [Unsection](https://www.unsection.com/) - Discover curated website section design library
 - [Refero](https://refero.design/) - The biggest collection of design references from great web applications.
@@ -97,7 +98,8 @@ A curated collection of the best resources for designers and developers to eleva
 - [One Page Love](https://onepagelove.com/) - One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources.
 - [Siteinspire](https://www.siteinspire.com/) - A showcase of the world's finest web design.
 - [WWWOAH!](https://wwwoah.com/) - wwwoah! is a gallery for the handcrafted website that celebrates expression in interactive design.
-- [Dead Simple Sites](https://deadsimplesites.com/) - Minimal Website Inspiration
+- [Dead Simple Sites](https://deadsimplesites.com/) - Minimal Website Inspiration.
+- [Unbound by default](https://unboundbydefault.com/) - Unbound by default is a curated directory of web design inspiration, showcasing remarkable websites to spark creativity.
 
 ## eCommerce
 
