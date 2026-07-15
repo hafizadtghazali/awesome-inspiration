@@ -64,10 +64,12 @@ A curated collection of the best resources for designers and developers to eleva
 
 ## UI & UX
 
+- [Built for Mars](https://builtformars.com/ux-glossary) - A collection of psychological biases, design principles and UX concepts that affect the product experience.
 - [Collect UI](https://collectui.com/) - Daily inspiration collected from daily ui archive and beyond. Based on Dribbble shots, hand picked, updating daily.
 - [GoodUI](https://goodui.org/) - Reach higher conversions faster by repeating what worked for others and avoiding what failed.
 - [Pageflows](https://pageflows.com/) - Explore real-world user flows and design patterns from leading apps and websites.
 - [UIRecipes](https://uirecipes.com/) - Discover UIRecipes for delicious recipes, easy cooking guides, ingredient ideas, and helpful kitchen tips.
+- [UX Collective](https://uxdesign.cc/) - We believe designers are thinkers as much as they are makers. https://linktr.ee/uxc
 
 ## Onboarding
 
@@ -151,6 +153,7 @@ A curated collection of the best resources for designers and developers to eleva
 
 ## Design
 
+- [Calltoidea](https://www.calltoidea.com/) - Calltoidea is the unique place where you can find inspiration. A great tool created by a deisnger for web professionals.
 - [Mindsparkle Mag](https://mindsparklemag.com/) - We showcase award winning design projects including branding, illustration, graphic design & many more.
 - [Design Inspiration](https://www.designspiration.com/) - Save creative inspiration, colors, links, notes, screenshots with our new Browser Extension.
 - [SearchSystem™](https://searchsystem.co/) - An ever-growing collection of references and tools for designers.
