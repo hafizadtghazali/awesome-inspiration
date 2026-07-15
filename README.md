@@ -161,6 +161,7 @@ A curated collection of the best resources for designers and developers to eleva
 - [Evernote.Design](https://www.evernote.design/) - All in One Bookmark Links for Designer
 - [Checklist Design](https://www.checklist.design/) - A collection of the best design practices.
 - [Frontpedia](https://frontpedia.com/) - A collection of frontend and design resources.
+- [getdesign.md](https://getdesign.md/design-md) - DESIGN.md collection for coding assistants.
 
 ## Interface
 
