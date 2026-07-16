@@ -230,6 +230,7 @@ A curated collection of the best resources for designers and developers to eleva
 ## Color
 
 - [Looka](https://looka.com/blog/color-combinations/) - 60 Stunning Color Combinations to Elevate Your Next Project
+- [OKLCH](https://oklch.com/#0.7,0.1,156,100) - OKLCH is a new way to encode colors (like hex, RGBA, or HSL)
 
 ## Newsletter
 
