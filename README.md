@@ -104,6 +104,7 @@ A curated collection of the best resources for designers and developers to eleva
 - [Unbound by default](https://unboundbydefault.com/) - Unbound by default is a curated directory of web design inspiration, showcasing remarkable websites to spark creativity.
 - [Made by Humans](https://www.human-made.work/) - The official website that verifies if your work is 100% human-made.
 - [Noiced](https://noiced.com/) - Daily Web Design Inspiration.
+- [Minimum](https://mnmm.xyz/) - A carefully curated collection of minimal websites.
 
 ## eCommerce
 
