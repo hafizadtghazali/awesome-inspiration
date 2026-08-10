@@ -103,6 +103,7 @@ A curated collection of the best resources for designers and developers to eleva
 - [Dead Simple Sites](https://deadsimplesites.com/) - Minimal Website Inspiration.
 - [Unbound by default](https://unboundbydefault.com/) - Unbound by default is a curated directory of web design inspiration, showcasing remarkable websites to spark creativity.
 - [Made by Humans](https://www.human-made.work/) - The official website that verifies if your work is 100% human-made.
+- [Noiced](https://noiced.com/) - Daily Web Design Inspiration.
 
 ## eCommerce
 
@@ -139,6 +140,7 @@ A curated collection of the best resources for designers and developers to eleva
 ## OG
 
 - [OG image gallery](https://www.ogimage.gallery/) - Gallery with the best and most carefully collected OG images.
+- [OGPedia](https://ogpedia.xyz/) - Inspiration for links that deserve a stunning first impression.
 
 ## Arts
 
@@ -162,6 +164,7 @@ A curated collection of the best resources for designers and developers to eleva
 - [Checklist Design](https://www.checklist.design/) - A collection of the best design practices.
 - [Frontpedia](https://frontpedia.com/) - A collection of frontend and design resources.
 - [getdesign.md](https://getdesign.md/design-md) - DESIGN.md collection for coding assistants.
+- [Posts](https://posts.design/) - A curated reference wall for social post design.
 
 ## Interface
 
