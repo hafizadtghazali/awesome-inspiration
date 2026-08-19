@@ -105,6 +105,7 @@ A curated collection of the best resources for designers and developers to eleva
 - [Made by Humans](https://www.human-made.work/) - The official website that verifies if your work is 100% human-made.
 - [Noiced](https://noiced.com/) - Daily Web Design Inspiration.
 - [Minimum](https://mnmm.xyz/) - A carefully curated collection of minimal websites.
+- [Dark Design](https://www.dark.design/) - The best hand-picked dark themed websites on the internet. From designers for designers. Curated with love.
 
 ## eCommerce
 
