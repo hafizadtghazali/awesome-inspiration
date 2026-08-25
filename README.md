@@ -167,6 +167,7 @@ A curated collection of the best resources for designers and developers to eleva
 - [Frontpedia](https://frontpedia.com/) - A collection of frontend and design resources.
 - [getdesign.md](https://getdesign.md/design-md) - DESIGN.md collection for coding assistants.
 - [Posts](https://posts.design/) - A curated reference wall for social post design.
+- [Design Spells](https://designspells.com/) - Discover micro-interactions, easter eggs, and other seemingly extra design details that infuse life, personality, and fun back into the web.
 
 ## Interface
 
